@@ -59,7 +59,7 @@ Storage: Browser localStorage for user authentication
 
 Clone the repository:
 
-git clone [https://github.com/kurrasriharsha26/TravelExplorer.git](https://github.com/kurrasriharsha26/TravelExplorer-.git)
+git clone [[[https://github.com/kurrasriharsha26/TravelExplorer.git](https://github.com/dasuswapnika/Travel-Explorer/tree/main/Travel%20Explorer)](https://github.com/dasuswapnika/Travel-Explorer/tree/main/Travel%20Explorer)](https://github.com/kurrasriharsha26/TravelExplorer-.git)
 cd travel-explorer
 
 
@@ -103,6 +103,7 @@ Add favorites to save cities for later trips.
 **License**
 
 This project is open-source and free to use.
+
 
 
 
